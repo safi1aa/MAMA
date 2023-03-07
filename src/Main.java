@@ -3,19 +3,19 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-              int [] arr = new int[10];
-            arr [0] =7;
-          arr [1]=9;
-        arr[2]=5;
-              arr[3]=5;
-            arr[4]=5;
-          arr[5]=5;
-            arr[6]=5;
-            arr[7]=5;
-           arr[8]=5;
-            arr[9]=5;
-             System.out.println(arr[9]);
-        int [] tyt= {10,5,10,1,7,8,};
+              long [] lio = new long[10];
+            lio [0] =7;
+          lio [1]=9;
+        lio[2]=5;
+              lio[3]=5;
+            lio[4]=5;
+          lio[5]=5;
+            lio[6]=5;
+            lio[7]=5;
+           lio[8]=5;
+            lio[9]=5;
+             System.out.println(lio[9]);
+    /*    int [] tyt= {10,5,10,1,7,8,};
               int sum = 0;
             for (int num: arr){
               sum = sum + num;
@@ -43,9 +43,9 @@ public class Main {
         int num3 = 0;
         int num4 = 0;
         for (int i1=0; i < arr1.length; i++);
-        System.out.println();
+        System.out.println();*/
 
         }
     }
-}
-}
+//}
+//}
